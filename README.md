@@ -11,3 +11,12 @@ The two sensors provide different output formats: one sensor outputs data in CSV
 Output:
 
 The output should consist of pairs of IDs, where one ID is from the first sensor, and the second ID is from the second sensor.
+
+
+
+# My Solution
+Code written in C# in Program.cs file
+
+The input CSV and JSON files are parsed with their respective functions. Then I iterate through both in a nested loop, discarding any invalid coordinates, and calculating the Haversine distance between each pair to find the coordinates that are within 100m of each other.
+
+To run the program: dotnet run <csvFilePath> <jsonFilePath>  

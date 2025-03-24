@@ -1,0 +1,15 @@
+/Users/jerry/Desktop/Intern-Coding-Challenge/bin/Debug/net9.0/Intern-Coding-Challenge
+/Users/jerry/Desktop/Intern-Coding-Challenge/bin/Debug/net9.0/Intern-Coding-Challenge.deps.json
+/Users/jerry/Desktop/Intern-Coding-Challenge/bin/Debug/net9.0/Intern-Coding-Challenge.runtimeconfig.json
+/Users/jerry/Desktop/Intern-Coding-Challenge/bin/Debug/net9.0/Intern-Coding-Challenge.dll
+/Users/jerry/Desktop/Intern-Coding-Challenge/bin/Debug/net9.0/Intern-Coding-Challenge.pdb
+/Users/jerry/Desktop/Intern-Coding-Challenge/obj/Debug/net9.0/Intern-Coding-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jerry/Desktop/Intern-Coding-Challenge/obj/Debug/net9.0/Intern-Coding-Challenge.AssemblyInfoInputs.cache
+/Users/jerry/Desktop/Intern-Coding-Challenge/obj/Debug/net9.0/Intern-Coding-Challenge.AssemblyInfo.cs
+/Users/jerry/Desktop/Intern-Coding-Challenge/obj/Debug/net9.0/Intern-Coding-Challenge.csproj.CoreCompileInputs.cache
+/Users/jerry/Desktop/Intern-Coding-Challenge/obj/Debug/net9.0/Intern-Coding-Challenge.sourcelink.json
+/Users/jerry/Desktop/Intern-Coding-Challenge/obj/Debug/net9.0/Intern-Coding-Challenge.dll
+/Users/jerry/Desktop/Intern-Coding-Challenge/obj/Debug/net9.0/refint/Intern-Coding-Challenge.dll
+/Users/jerry/Desktop/Intern-Coding-Challenge/obj/Debug/net9.0/Intern-Coding-Challenge.pdb
+/Users/jerry/Desktop/Intern-Coding-Challenge/obj/Debug/net9.0/Intern-Coding-Challenge.genruntimeconfig.cache
+/Users/jerry/Desktop/Intern-Coding-Challenge/obj/Debug/net9.0/ref/Intern-Coding-Challenge.dll
