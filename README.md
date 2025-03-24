@@ -19,4 +19,4 @@ Code written in C# in Program.cs file
 
 The input CSV and JSON files are parsed with their respective functions. Then I iterate through both in a nested loop, discarding any invalid coordinates, and calculating the Haversine distance between each pair to find the coordinates that are within 100m of each other.
 
-To run the program: dotnet run <csvFilePath> <jsonFilePath>  
+To run the program: dotnet run {csvFilePath} {jsonFilePath}  
